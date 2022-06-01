@@ -24,6 +24,7 @@ export default function Sidebar() {
                 </p>
             </div>
 
+             
             <div className="sidebarItem">
                 <span className='sidebarTitle'>CATEGORIES</span>
                 <ul className='sidebarList'>
